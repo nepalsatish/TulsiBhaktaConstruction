@@ -1,0 +1,26 @@
+/**
+ * @Author: Satish Nepal <satish>
+ * @Date:   16-Jan-2020 11-21-32 AM
+ * @Email:  nepalsatish1@outlook.com
+ * @Last modified by:   satish
+ * @Last modified time: 16-Jan-2020 12-58-44 PM
+ * @Copyright: Satish Nepal
+ */
+.red{
+    color: #d31a1f;
+    background: #d31a1f
+}
+.blue{
+    color: #2a2a82;
+    background: #2a2a82
+}
+.green{
+    color: #008c45;
+    background: #008c45
+}
+.menu-copyright a{
+    color: #222 !important
+}
+.brand img{
+    width: 5rem
+}
